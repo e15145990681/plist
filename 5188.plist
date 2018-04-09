@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download2.lanbaonet.com/WZPlatform-mobile-resigned.ipa</string>
+					<string>http://appsrc.hzzc188.com/Download/5188-ylc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://downloads.lanbaonet.com/zcqp.png</string>
+					<string>http://appsrc.hzzc188.com/Icon-152.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://downloads.lanbaonet.com/zcqp57.png</string>
+					<string>http://appsrc.hzzc188.com/Icon-57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.kypj.wzplatforms</string>
+				<string>org.cocos.Tjly9988</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>众创棋牌</string>
+				<string>5188经典娱乐城</string>
 				<key>title</key>
-				<string>众创棋牌</string>
+				<string>5188经典娱乐城</string>
 			</dict>
 		</dict>
 	</array>
